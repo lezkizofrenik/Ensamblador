@@ -1,0 +1,1 @@
+El archivo ReadData es el terminado. No le he hecho niguna mejora como lo de usar la tecla retroceso y demas.
